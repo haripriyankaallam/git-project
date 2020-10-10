@@ -36,17 +36,20 @@ please accept the collaborator invitation
 
 
 
-
-
-
-
-
-
-
-
-
-
-
 ![](https://www.youtube.com/watch?v=JakUv7jWOLQ)
 
 ![](http://techslides.com/demos/sample-videos/small.mp4)
+
+
+```java
+public class AddTwoNumbers {
+
+   public static void main(String[] args) {
+        
+      int num1 = 5, num2 = 15, sum;
+      sum = num1 + num2;
+
+      System.out.println("Sum of these numbers: "+sum);
+   }
+}
+```
