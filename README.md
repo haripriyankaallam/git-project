@@ -53,3 +53,10 @@ public class AddTwoNumbers {
    }
 }
 ```
+s.no|name
+----|----
+1|hari
+2|priya
+3|mouni
+4|phani
+
